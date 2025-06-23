@@ -82,8 +82,8 @@ This repository contains the **design and prototype phase** of the project. The 
 
 ## 🔗 Relevant Links
 
-- [Figma Prototype (if available)](https://www.figma.com/) *(add actual link if you have one)*
-- [Punto Naranja Campaign – City of Morelia](https://www.morelia.gob.mx) *(optional)*
+- [Figma Prototype](https://www.figma.com/design/axYJiAQMMkE7IA3ZULczqa/NaranjaSegura-V1.1?node-id=351-712&p=f&t=7CZtC3gZQkb0PMZb-0)
+- [Punto Naranja Campaign – City of Morelia](https://semmujeris.morelia.gob.mx/punto-naranja/)
 
 ---
 
