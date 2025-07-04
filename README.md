@@ -4,7 +4,7 @@
 
 ## 🌟 Objective
 
-**Naranja Segura** is a mobile app prototype designed to **provide immediate support to women in dangerous or emergency situations**, offering features such as:
+**Naranja Segura** is a mobile app prototype designed to **provide immediate support to people in dangerous or emergency situations**, offering features such as:
 
 - An interactive map showing nearby safe spaces ("Puntos Naranja").
 - An emergency button that shares the user's real-time location with trusted contacts.
@@ -15,7 +15,7 @@
 
 - [Fernanda Paulina Ávila González](https://github.com/fernapau)
 - José Alberto Valencia López
-- Marco Antonio Alonso Medina del Ángel
+- [Marco Antonio Alonso Medina del Ángel](https://github.com/Marc0Medina)
 
 **Instituto Tecnológico de Morelia – Bachelor's Degree in Information and Communication Technologies Engineering**
 
